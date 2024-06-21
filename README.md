@@ -21,6 +21,10 @@
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-43464B?style=for-the-badge&logo=linux&logoColor=white"/>
 </div><br>
 
+![Julio Cesar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JulioCesarSantosdv&theme=tokyonight)
+
+
+
 
 
 
